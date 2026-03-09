@@ -1,0 +1,4 @@
+INSERT INTO perfis (nome) VALUES ('ROLE_ADMIN');
+INSERT INTO perfis (nome) VALUES ('ROLE_MODERADOR');
+INSERT INTO perfis (nome) VALUES ('ROLE_ALUNO');
+
