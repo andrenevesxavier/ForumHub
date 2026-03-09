@@ -1,5 +1,14 @@
 # ForumHub 🎓
 
+![Java](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![API REST](https://img.shields.io/badge/API_REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
 Uma plataforma de ensino completa com API REST desenvolvida em Java com Spring Boot, permitindo que alunos, moderadores e administradores interajam através de tópicos, respostas e cursos.
 
 ---
@@ -12,7 +21,7 @@ O ForumHub é uma API REST de uma plataforma de ensino que permite o gerenciamen
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Java 17**
+- **Java 25**
 - **Spring Boot 3**
 - **Spring Security** — autenticação e autorização
 - **Spring Data JPA** — persistência de dados
