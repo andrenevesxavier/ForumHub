@@ -280,7 +280,11 @@ O token é obtido realizando login no endpoint `POST /login`.
 
 Desenvolvido por **André Neves Xavier**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andre-neves-xavier)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](andrenevesxavier)
+<a href="https://linkedin.com/in/andre-neves-xavier" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/andrenevesxavier" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 Desenvolvido como projeto de estudo de Spring Boot e Spring Security.
